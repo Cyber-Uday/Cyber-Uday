@@ -1,6 +1,7 @@
 <html>
-Hi There ..!, This Guy Name is Uday Payghon Who is a Computer Engineering student along with dedicated cybersecurity professional with a passion for securing landscapes. 
-<br>
+Hi There ..!, This Guy Name is Uday Payghon Who is a Computer Engineering student along with dedicated cybersecurity professional with a passion for securing landscapes. <br>
+<h1> Overall Journey : Ex- @Google Cyber Intern ( VAPT ) • Open Source - @Google, @Yatra, @Crisis-India, @Delhi-Police(CC) & @Mountreach Solution's • App & Web Developer • Cyber-Security </h1>
+  <br>
 🌎 World - RANK 3rd On Google Hall of Fame  ( March - 2024 )<br>
 🎮 Games - Chess State-Level Winner (Spet-2020) , PUBG Conquer Rank -#93 (June-2024),Volleyball <br>
 🛡️Cyber Security Achievements : Google & Yatra Bug Hunter, Work For Crisis INDIA , HackerOne R-181 <br>
